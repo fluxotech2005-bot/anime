@@ -1,18 +1,12 @@
 {
-  "name": "Knowledge Hub",
-  "short_name": "Knowledge Hub",
-  "description": "Pesquisa e organização de conhecimento",
-  "start_url": "/",
+  "name": "Escritor IA",
+  "short_name": "Escritor",
+  "start_url": "./index.html",
   "display": "standalone",
-  "orientation": "portrait",
-  "background_color": "#101323",
-  "theme_color": "#101323",
+  "background_color": "#15131f",
+  "theme_color": "#1e1b2e",
   "icons": [
-    {
-      "src": "/static/icons/icon.svg",
-      "sizes": "any",
-      "type": "image/svg+xml",
-      "purpose": "any maskable"
-    }
+    { "src": "icon-192.png", "sizes": "192x192", "type": "image/png" },
+    { "src": "icon-512.png", "sizes": "512x512", "type": "image/png" }
   ]
 }
